@@ -31,7 +31,7 @@ key-highlights:
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/overview/
+    url: /who-we-are/
 
 # Resources Section
 resources-title: Resources
