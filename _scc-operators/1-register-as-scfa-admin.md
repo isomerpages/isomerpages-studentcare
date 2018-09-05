@@ -16,4 +16,4 @@ collection_name: scc-operators
 
 ### **Register Online**
 
-[Registration Link](www.google.com){:target="_blank"}
+[Registration Link](https://www.google.com){:target="_blank"}
