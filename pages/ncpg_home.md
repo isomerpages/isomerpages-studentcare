@@ -5,7 +5,7 @@ permalink: /ncpg_home/
 breadcrumb: NCPG Home
 ---
 
-## [LEARN About Problem Gambling](https://www.ncpg.org.sg/en/Pages/LearnAboutProblemGambling.aspx)
+## [## LEARN About Problem Gambling](https://www.ncpg.org.sg/en/Pages/LearnAboutProblemGambling.aspx)
 ## [MANAGE Problem Gambling](https://www.ncpg.org.sg/en/Pages/DealWithProblemGambling.aspx)
 
 
@@ -24,9 +24,9 @@ Casino Exclusion and Visit Limit are social safeguards that can help stop or lim
 
 Find out how these measures can help you and your loved ones.
 
-[Apply/Revoke Exclusions](https://www.ncpg.org.sg/en/Pages/DealWithProblemGambling.aspx?categ=2&article=10)
+[Apply/Revoke Exclusions](https://www.ncpg.org.sg/en/Pages/DealWithProblemGambling.aspx?categ=2&article=10)<br>
 [Apply/Revoke Visit Limits](https://www.ncpg.org.sg/en/Pages/DealWithProblemGambling.aspx?categ=3&article=20)
-[Check Exclusion Status](http://ces.ncpg.org.sg/CES/login.do?action=init&access=public)
+[Check Exclusion Status](http://ces.ncpg.org.sg/CES/login.do?action=init&access=public)<br>
 [Check Visit Limit Status](https://icis-services.ncpg.org.sg/)
 
 
