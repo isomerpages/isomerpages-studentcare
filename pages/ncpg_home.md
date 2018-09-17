@@ -15,8 +15,9 @@ Put yourself or someone you know on the road to recovery by picking up the phone
 
 Gamblers and their families often have to struggle with financial and debt management problems as well as guilt, anxiety and even depression. If you need a listening ear, more information or assistance on problem gambling, call the helpline or use the new webchat service now.
 
-**We're Here to Help**
-**1800-6-668-668**
+#### **We're Here to Help**
+#### **1800-6-668-668**
+
 
 
 ### CASINO EXCLUSION AND VISIT LIMIT
@@ -31,6 +32,7 @@ Find out how these measures can help you and your loved ones.
 [Check Exclusion Status](http://ces.ncpg.org.sg/CES/login.do?action=init&access=public)
 
 [Check Visit Limit Status](https://icis-services.ncpg.org.sg/)
+
 
 
 ### SELF-EXCLUSION FROM ONLINE BETTING/JACKPOT MACHINE ROOMS
