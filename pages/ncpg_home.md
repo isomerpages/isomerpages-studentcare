@@ -5,11 +5,10 @@ permalink: /ncpg_home/
 breadcrumb: NCPG Home
 ---
 
-[![National Council on Problem Gambling](https://www.ncpg.org.sg/en/Pages/_layouts/MSF.NCPG.SiteDef/images/logo.png | =120x80)](https://www.ncpg.org.sg/en/Pages/Home.aspx)
-
 ![National Council on Problem Gambling](https://www.ncpg.org.sg/en/Pages/_layouts/MSF.NCPG.SiteDef/images/logo.png)
 
-<div style="max-width:300px;width:100%;height:100px;border:1px solid #000;background-color:#003;color:white;text-align:center;vertical-align:middle;">HELP IS AVAILABLE</div><div style="max-width:300px;width:100%;height:100px;border:1px solid #000;background-color:#003;color:white;text-align:center;vertical-align:middle;">HELP IS AVAILABLE</div>
+<div style="max-width:300px;width:100%;height:100px;border:1px solid #000;background-color:#003;color:white;text-align:center;vertical-align:middle;">### [LEARN About Problem Gambling](https://www.ncpg.org.sg/en/Pages/LearnAboutProblemGambling.aspx)</div>
+<div style="max-width:300px;width:100%;height:100px;border:1px solid #000;background-color:#003;color:white;text-align:center;vertical-align:middle;">### [MANAGE Problem Gambling](https://www.ncpg.org.sg/en/Pages/DealWithProblemGambling.aspx)</div>
 
 ### [LEARN About Problem Gambling](https://www.ncpg.org.sg/en/Pages/LearnAboutProblemGambling.aspx)  
 ### [MANAGE Problem Gambling](https://www.ncpg.org.sg/en/Pages/DealWithProblemGambling.aspx)  
