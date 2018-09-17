@@ -5,6 +5,10 @@ permalink: /ncpg_home/
 breadcrumb: NCPG Home
 ---
 
+[![National Council on Problem Gambling](https://www.ncpg.org.sg/en/Pages/_layouts/MSF.NCPG.SiteDef/images/logo.png)](https://www.ncpg.org.sg/en/Pages/Home.aspx)
+
+<div style="width:100px;height:40px;border:2px solid #000;background-color:#111">This is a rectangle!</div>
+
 ## [## LEARN About Problem Gambling](https://www.ncpg.org.sg/en/Pages/LearnAboutProblemGambling.aspx)
 ## [MANAGE Problem Gambling](https://www.ncpg.org.sg/en/Pages/DealWithProblemGambling.aspx)
 
@@ -14,7 +18,7 @@ Put yourself or someone you know on the road to recovery by picking up the phone
 
 Gamblers and their families often have to struggle with financial and debt management problems as well as guilt, anxiety and even depression. If you need a listening ear, more information or assistance on problem gambling, call the helpline or use the new webchat service now.
 
-**We're Here to Help**
+**We're Here to Help**<br>
 **1800-6-668-668**
 
 
