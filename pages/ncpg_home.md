@@ -5,13 +5,10 @@ permalink: /ncpg_home/
 breadcrumb: NCPG Home
 ---
 
-[## LEARN
-#### About Problem Gambling] [LearnPG]
+## LEARN
+#### [About Problem Gambling](https://www.ncpg.org.sg/en/Pages/LearnAboutProblemGambling.aspx)
 
-[## MANAGE
-#### Problem Gambling] [ManagePG]
-
-[LearnPG]: https://www.ncpg.org.sg/en/Pages/LearnAboutProblemGambling.aspx
-[ManagePG]: https://www.ncpg.org.sg/en/Pages/DealWithProblemGambling.aspx
+## MANAGE
+#### [Problem Gambling](https://www.ncpg.org.sg/en/Pages/DealWithProblemGambling.aspx)
 
 
