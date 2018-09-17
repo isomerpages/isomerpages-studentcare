@@ -5,9 +5,10 @@ permalink: /ncpg_home/
 breadcrumb: NCPG Home
 ---
 
-<div style="width:150px;height:100px;>[![National Council on Problem Gambling](https://www.ncpg.org.sg/en/Pages/_layouts/MSF.NCPG.SiteDef/images/logo.png)](https://www.ncpg.org.sg/en/Pages/Home.aspx)</div>
+[![National Council on Problem Gambling](https://www.ncpg.org.sg/en/Pages/_layouts/MSF.NCPG.SiteDef/images/logo.png | width=100)](https://www.ncpg.org.sg/en/Pages/Home.aspx)
 
-<div style="width:200px;height:100px;border:1px solid #000;background-color:#000044">HELP IS AVAILABLE</div>
+
+<div style="width:200px;height:100px;border:1px solid #000;background-color:#000044;color:white;align=centre;">HELP IS AVAILABLE</div>
 
 ## [LEARN About Problem Gambling](https://www.ncpg.org.sg/en/Pages/LearnAboutProblemGambling.aspx)
 ## [MANAGE Problem Gambling](https://www.ncpg.org.sg/en/Pages/DealWithProblemGambling.aspx)
