@@ -7,9 +7,9 @@ breadcrumb: NCPG Home
 
 [![National Council on Problem Gambling](https://www.ncpg.org.sg/en/Pages/_layouts/MSF.NCPG.SiteDef/images/logo.png)](https://www.ncpg.org.sg/en/Pages/Home.aspx)
 
-<div style="width:100px;height:40px;border:2px solid #000;background-color:#111">This is a rectangle!</div>
+<div style="width:100px;height:40px;border:2px solid #000;background-color:#888888">HELP IS AVAILABLE</div>
 
-## [## LEARN About Problem Gambling](https://www.ncpg.org.sg/en/Pages/LearnAboutProblemGambling.aspx)
+## [LEARN About Problem Gambling](https://www.ncpg.org.sg/en/Pages/LearnAboutProblemGambling.aspx)
 ## [MANAGE Problem Gambling](https://www.ncpg.org.sg/en/Pages/DealWithProblemGambling.aspx)
 
 
@@ -28,9 +28,9 @@ Casino Exclusion and Visit Limit are social safeguards that can help stop or lim
 
 Find out how these measures can help you and your loved ones.
 
-[Apply/Revoke Exclusions](https://www.ncpg.org.sg/en/Pages/DealWithProblemGambling.aspx?categ=2&article=10)<br>
-[Apply/Revoke Visit Limits](https://www.ncpg.org.sg/en/Pages/DealWithProblemGambling.aspx?categ=3&article=20)
-[Check Exclusion Status](http://ces.ncpg.org.sg/CES/login.do?action=init&access=public)<br>
+[Apply/Revoke Exclusions](https://www.ncpg.org.sg/en/Pages/DealWithProblemGambling.aspx?categ=2&article=10) <br>
+[Apply/Revoke Visit Limits](https://www.ncpg.org.sg/en/Pages/DealWithProblemGambling.aspx?categ=3&article=20) <br>
+[Check Exclusion Status](http://ces.ncpg.org.sg/CES/login.do?action=init&access=public) <br>
 [Check Visit Limit Status](https://icis-services.ncpg.org.sg/)
 
 
