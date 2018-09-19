@@ -5,18 +5,6 @@ permalink: /ncpg_home/
 breadcrumb: NCPG Home
 ---
 
-# Agency logo
-agency-logo: https://www.ncpg.org.sg/en/Pages/_layouts/MSF.NCPG.SiteDef/images/logo.png
-
-key-highlights:
-  - title: LEARN
-    description: About Problem Gambling
-    url: https://www.ncpg.org.sg/en/Pages/LearnAboutProblemGambling.aspx
-    external: true
-  - title: MANAGE
-    description: Problem Gambling
-    url: https://www.ncpg.org.sg/en/Pages/DealWithProblemGambling.aspx
-
 ![National Council on Problem Gambling](https://www.ncpg.org.sg/en/Pages/_layouts/MSF.NCPG.SiteDef/images/logo.png)
 
 ### [LEARN About Problem Gambling](https://www.ncpg.org.sg/en/Pages/LearnAboutProblemGambling.aspx)  
