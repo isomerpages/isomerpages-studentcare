@@ -43,7 +43,7 @@ breadcrumbs:
 
 
 collections:
-  special-needs-planning:
+  scc-operators:
     output: true
   news-and-announcements:
     output: true
