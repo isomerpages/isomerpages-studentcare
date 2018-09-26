@@ -46,7 +46,7 @@ collections:
   scc-operators:
     output: true
   news-and-announcements:
-    output: false
+    output: true
   who-we-are:
     output: true
 
