@@ -22,7 +22,7 @@ column:
   - title: General Enquiries & Feedback
     content:
     - line: +65 6278 9598
-      description: Line opens 9am to 6pm, Mondays to Fridays
+      # description: Line opens 9am to 6pm, Mondays to Fridays
     - line: enquiries@sntc.org.sg (email)
     # If you have an email, put (email) after the actual email
 
