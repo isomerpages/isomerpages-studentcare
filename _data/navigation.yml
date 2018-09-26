@@ -6,6 +6,13 @@
 
 - title: Who We Are
   url: /who-we-are/
+- title: Special Needs Planning
+  url: /special-needs-planning/
+  sub-links:
+  - title: Trust Services
+    url: /special-needs-planning/trust-services/
+  - title: Special Needs Savings Scheme
+    url: /special-needs-planning/savings-scheme/
 - title: Resources
   url: /resources/
   sub-links:
@@ -15,16 +22,6 @@
     url: /resources/announcements/
   - title: Publications
     url: /resources/publications/
-- title: SCC Operators
-  url: /scc-operators/register-as-scfa-admin/
-  sub-links:
-  - title: Register as SCFA Admin
-    url: /scc-operators/register-as-scfa-admin/
-  - title: Operational Procedures
-    url: /scc-operators/operational-procedures/
-- title: Registered Student Care Centres
-  url: /registered-student-care-centres/
 - title: Contact Us
   url: /contact-us/
-- title: NCPG
-  url: /ncpg_home/
+
