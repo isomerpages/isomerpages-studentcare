@@ -7,21 +7,25 @@
 - title: Who We Are
   url: /who-we-are/
 - title: Special Needs Planning
-  url: /scc-operators/
+  url: /scc-operators/trust-services/
   sub-links:
   - title: Trust Services
     url: /scc-operators/trust-services/
   - title: Special Needs Savings Scheme
     url: /scc-operators/savings-scheme/
 - title: Resources
-  url: /resources/
+  url: /resources/latest-news/
   sub-links:
-  - title: All
-    url: /resources/
-  - title: Announcements
-    url: /resources/announcements/
-  - title: Publications
-    url: /resources/publications/
+  - title: Latest News
+    url: /resources/latest-news/
+  - title: Useful Links
+    url: /resources/useful-links/
+  - title: Get Involved
+    url: /resources/get-involved/
+  - title: Events/Outreach
+    url: /resources/outreach/
+  - title: Real Life Stories
+    url: /resources/real-life-stories/
 - title: Contact Us
   url: /contact-us/
 
