@@ -5,39 +5,107 @@ permalink: /who-we-are/
 breadcrumb: Who We Are
 ---
 
-### **Student Care Centres**
+### **Establishment of SNTC**
 
-Student Care Centres provide care and supervision to school-going children in the Primary to lower Secondary levels outside school hours. The centres provide the students a safe place to rest, where they can also receive support to develop physically, intellectually, emotionally, socially and morally.
-
-Student Care Centres can be found in both schools and the community, and be run by commercial or voluntary welfare organisations. Centres will typically provide meals and homework supervision. Beyond that, there is a great variety of programmes among Centres, as each centre has the flexibility to provide programmes that best cater to the profile of its students. These include academic support programmes, outdoor and indoor play, character development programmes, as well as enrichment and recreational activities. Centres may also organise excursion trips and camps for children during the school holidays.
-
-Student Care Centres can choose to register with the Ministry of Social and Family Development if they wish to administer government student care subsidies. Such centres agree to meet the Ministry’s minimum requirements on areas such as physical environment, health, safety, supervision and having a structured programme. The Ministry will audit these centres to ensure that they meet these requirements. You could read more about the minimum requirements here
- 
-### **Subsidies and Financial Assistance**
-
-The government Student Care Fee Assistance (SCFA) scheme provides eligible families with subsidies for their children's student care fees. To qualify, families have to meet income and employment conditions, and their child must also be attending a Student Care Centre registered with MSF. The amount of subsidy will depend on the family’s household income and the fees charged by the centre. You may visit this link for more information. 
- 
-### **Looking for a Student Care Centre?**
-
-Here are some steps to search for a suitable student care centre:
- 
-**Step 1:** Locate Student Care Centres convenient for you
-
-**Step 2:** Obtain information on the Student Care Centre
-* Information on operational details (e.g. operating hours, fee structure, availability of enrolment spaces)
-* Information on the programmes, partnership with family/school, meals provided, staff’s experience and arrangements during emergencies.
-
-**Step 3:** Visit the Student Care Centres to register
-You can do an online search for a registered Student Care Centre that suits your needs.
-
-The Ministry does not recommend any particular centre. You can contact and visit the desired centre(s) to find out more about the physical environment and centre’s policies on fees, programmes and services before deciding to enrol your child.
- 
-If you are looking for a Student Care Centre that can take in children with special needs, please visit the [SG Enable website](https://www.sgenable.sg/Pages/Home.aspx){:target="_blank"}.
+In June 2008, with the support from MSF (then MCYS) and the National Council of Social Service (NCSS), the Special Needs Trust Company Limited (SNTC) was successfully incorporated as an independent Company Limited by Guarantee. Relevant safeguards as provided for under the Companies Act, Trustees Act, Charities Act, Institute of Public Character (IPC) Regulations and Code of Governance for Charities and IPCs are in place for regulation of the corporate governance of SNTC. SNTC has been granted NCSS membership, Charity and IPC status.
   
-### **Registering as Student Care Fee Assistance Administrators**
 
-Student Care Centres that wish to administer government student care subsidies need to register with the Ministry of Social and Family Development as Student Care Fee Assistance (SCFA) Administrators. Centres registered with the Ministry are to meet a set of minimum requirements and will be audited to ensure that they continue to do so.
+### **Mission**
 
-If you wish to find out more about the minimum requirements of an SCFA Administrator, please refer to this [document]({{"/files/scc-operators/GIRO_Application_Form.pdf" | absolute_url}}){:target="_blank"}.
+The provision of trust services and the set up and management of an endowment fund for the benefit of persons with special needs.
+ 
+### **Vision**
 
-To register with the Ministry of Social and Family Development as a Student Care Fee Assistance Administrator, please use our [e-Registration portal.](https://www.studentcare.msf.gov.sg/Pages/sccregistration.aspx){:target="_blank"}
+Collaborate with individuals and communities to provide the continuity of financial support for persons with special needs.
+  
+### **Objective**
+
+To enhance the financial security and well-being of persons with special needs through the provision of Trust services.
+  
+
+### **Our Duties As Trustee**
+  
+1. To manage the Trust assets for the sole benefit of the beneficiary
+2. To comply with the terms of the Trust deed
+3. To protect and safeguard Trust assets
+4. To act fairly and impartially between the beneficiaries
+5. Not to profit from the Trust and avoid conflicts of interest between the Trustee’s own interests and those of the Trusts
+6. To keep clear and accurate accounts
+7. To exercise reasonable care and skill in ensuring the financial security and well-being of the beneficiary
+  
+  
+### **Non-Financial Information**
+
+**Name of organisation**
+Special Needs Trust Company Limited
+  
+**Address**
+#10-01 Central Plaza  
+298 Tiong Bahru Road  
+Singapore 168730  
+  
+#### Contact Information
+**Telephone** 
++65 6278 9598
+  
+**Fax**  
++65 6270 7936
+  
+**Email**  
+enquiries@sntc.org.sg
+  
+**Website**  
+www.sntc.org.sg
+  
+#### Charity Status
+**Charity Regn no.**
+2106
+
+**Charity Regn date**
+1 August 2008
+
+**Constitution**
+Company Limited by Guarantee
+
+**UEN**
+200812120W
+
+**Date of establishment**
+20 June 2008
+
+#### IPC Status
+**IPC No.**
+IPC000633
+
+**Effective Date**
+1 August 2013 to 31 July 2016
+
+**Sector Administrator**
+Ministry of Social and Family Development
+
+### **Members**
+* Permanent Secretary (PS) of MSF, Mr Chew Hock Yong
+* Mr Conrad Melville Campos
+* Mr Lee Chak Meng
+* Professor Lim Pin
+
+### **Board of Directors**
+* Professor Lim Pin (Chairman)
+* Mr Cyril Chua Yeow Hooi
+* Mr Lim Cheng Teck
+* Dr Jeremy Lim Fung Yen
+* Dr Abdul Majeed Bin Abdul Khader
+* Ms Tina Hung
+* Mr Calvin Yeap Soon Aun
+* Mrs Hauw-Quek Soo Hoon
+* Mr Chee Yoh Chuang
+* Dr Balbir Singh
+* Dr Tang Hang Wu
+* Ms Beck Gek Suan Charlotte
+
+#### External Auditor
+* CS Choong & Co PAC
+
+#### General Manager
+* Ms Esther Tan
+
