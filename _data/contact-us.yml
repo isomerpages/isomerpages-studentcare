@@ -8,7 +8,7 @@
 
 locations:
   # HQ Address [REQUIRED]
-  - title: '#'10-01 Central Plaza
+  - title: #10-01 Central Plaza
     address: 298 Tiong Bahru Rd<br>Singapore 168730
     find-directions: https://goo.gl/maps/q1h95Db18HG2
   # Operating Hours [OPTIONAL]
