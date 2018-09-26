@@ -5,12 +5,12 @@
 ##################################
 
 # Agency logo
-agency-logo: /images/msf-logo.png
+agency-logo: /images/logo_sntc.png
 
 # Hero Banner
 hero-title: MSF Student Care Portal
 hero-subtitle: An intuitive description of what this website is supposed to do
-hero-banner: /images/banner_GardenBay.png
+hero-banner: /images/sntc_banner1.jpg
 
 key-highlights:
   - title: Highlight A
