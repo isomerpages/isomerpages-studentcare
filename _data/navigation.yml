@@ -14,8 +14,10 @@
   - title: Special Needs Savings Scheme
     url: /scc-operators/savings-scheme/
 - title: Resources
-  url: /resources/latest-news/
+  url: /resources/
   sub-links:
+  - title: All
+    url: /resources/
   - title: Latest News
     url: /resources/latest-news/
   - title: Useful Links
