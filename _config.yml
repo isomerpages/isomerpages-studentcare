@@ -57,7 +57,7 @@ paginate_path: "/resources/page:num"
 
 # Site configuration
 ####################
-homepage_hero_i_want_to: false
+homepage_hero_i_want_to: false  # if i_want_to is true, there will be no key highlights
 homepage_resources: true
 
 # Feedback Form URL
