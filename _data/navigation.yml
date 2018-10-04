@@ -13,6 +13,11 @@
     url: /scc-operators/trust-services/
   - title: Special Needs Savings Scheme
     url: /scc-operators/savings-scheme/
+- title: Planning
+  url: /planning/
+  sub-links:
+  - title: Trust Services
+    url: /planning/trust-services/
 - title: Resources
   url: /resources/
   sub-links:
