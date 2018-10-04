@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "A Father's Heart"
-date:   2018-03-31
-permalink: "/resources/real-life-stories/_posts/a-fathers-heart.md"
+date:   2018-08-31
+permalink: "/resources/real-life-stories/a-fathers-heart"
 ---
 
 #### A FATHER’S HEART
