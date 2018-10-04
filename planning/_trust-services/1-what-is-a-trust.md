@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Trust Services
-permalink: /planning/trust-services/what-is-a-trust/
+permalink: /planning/trust-services/what-is-a-trust.md
 breadcrumb: Trust Services
 collection_name: trust-services
 ---
