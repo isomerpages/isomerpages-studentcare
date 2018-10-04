@@ -7,13 +7,6 @@
 - title: Who We Are
   url: /who-we-are/
 - title: Special Needs Planning
-  url: /scc-operators/trust-services/
-  sub-links:
-  - title: Trust Services
-    url: /scc-operators/trust-services/
-  - title: Special Needs Savings Scheme
-    url: /scc-operators/savings-scheme/
-- title: Planning
   url: /planning/trust-services/what-is-a-trust/
   sub-links:
   - title: Trust Services
