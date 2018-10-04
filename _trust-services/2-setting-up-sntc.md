@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Trust Services
+title: Setting up the SNTC Trust
 permalink: /planning/trust-services/setting-up-sntc/
 breadcrumb: Trust Services
 collection_name: trust-services
