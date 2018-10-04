@@ -2,7 +2,7 @@
 layout: post
 title:  "A Safeguard Against Predators"
 date:   2018-04-21
-permalink: "/resources/real-life-stories/_posts/a-safeguard-against-predators.md"
+permalink: "/resources/real-life-stories/a-safeguard-against-predators"
 ---
 
 #### STORY 2: A SAFEGUARD AGAINST PREDATORS
@@ -16,5 +16,5 @@ Melissa had many suspicions about Peter, but she could do little because John is
 Unfortunately, Mary was not aware of the SNTC Trust when she was alive. If Mary had been able to set up a trust, John could have been prevented from losing his monies.
 
 > “I urge all caregivers with people of special needs and low IQ to plan ahead for their future needs. Because what happen to John could possibly happen to their loved ones as well. People like John are vulnerable and easily manipulated and there are sharks out there. I never believed this until I met one, who heartlessly preyed on a trusting and vulnerable individual like John. I urged every caregiver to take action and plan ahead.”
-
+>
 > Melissa
