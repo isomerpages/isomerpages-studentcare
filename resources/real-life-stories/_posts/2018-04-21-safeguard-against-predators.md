@@ -2,7 +2,7 @@
 layout: post
 title:  "A Safeguard Against Predators"
 date:   2018-04-21
-permalink: "/resources/real-life-stories/a-safeguard-against-predators"
+permalink: "/resources/real-life-stories/safeguard-against-predators"
 ---
 
 #### STORY 2: A SAFEGUARD AGAINST PREDATORS
