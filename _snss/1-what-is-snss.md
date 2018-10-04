@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: What Is Special Needs Savings Scheme
+title: What Is SNSS
 permalink: /planning/snss/what-is-snss/
 breadcrumb: Special Needs Savings Scheme
 collection_name: snss
