@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Who Is Eligible for SNSS
-permalink: /planning/snss/who-is-eligible
+permalink: /planning/snss/who-is-eligible/
 breadcrumb: Who Is Eligible for SNSS
 collection_name: snss
 ---
