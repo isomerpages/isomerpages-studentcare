@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Trust Services
 permalink: /scc-operators/trust-services/
-breadcrumb: Planning / Trust Services
+breadcrumb: Trust Services
 collection_name: scc-operators
 ---
   
