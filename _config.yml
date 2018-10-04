@@ -45,6 +45,8 @@ breadcrumbs:
 collections:
   scc-operators:
     output: true
+  planning:
+    output: true
   news-and-announcements:
     output: true
   who-we-are:
