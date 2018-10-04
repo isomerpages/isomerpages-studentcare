@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: What Is Special Needs Savings Scheme
-permalink: /planning/snss/what-is-snss
+permalink: /planning/snss/what-is-snss/
 breadcrumb: Special Needs Savings Scheme
 collection_name: snss
 ---
