@@ -1,7 +1,9 @@
-
-
-
-great-day-out-at-marine-parade.md
+---
+layout: post
+title:  "Great Day Out at Marine Parade"
+date:   2018-06-31
+permalink: "/resources/outreach/_posts/great-day-out-at-marine-parade.md"
+---
 
 ### Great Day Out at Marine Parade
 
