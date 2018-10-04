@@ -43,8 +43,6 @@ breadcrumbs:
 
 
 collections:
-  scc-operators:
-    output: true
   trust-services:
     output: true
   snss:
