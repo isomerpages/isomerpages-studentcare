@@ -47,6 +47,8 @@ collections:
     output: true
   trust-services:
     output: true
+  snss:
+    output: true
   news-and-announcements:
     output: true
   who-we-are:
