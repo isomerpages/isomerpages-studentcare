@@ -2,7 +2,7 @@
 layout: post
 title:  "Useful Links"
 date:   2018-09-30
-permalink: "/resources/useful-links/_posts/useful-links.md"
+permalink: "/resources/useful-links/useful-links"
 ---
 
 * [Ministry of Social and Family Development](https://www.msf.gov.sg)
