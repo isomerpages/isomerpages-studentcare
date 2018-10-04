@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Trust Services
 permalink: /planning/trust-services/
-breadcrumb: What Is A Trust
+breadcrumb: Trust Services
 collection_name: trust-services
 ---
     
