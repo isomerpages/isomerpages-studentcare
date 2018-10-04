@@ -1,6 +1,9 @@
-
-
-
+---
+layout: post
+title:  "Help Us Reach Out To Serve"
+date:   2018-10-04
+permalink: "/resources/get-involved/_posts/help-us.md"
+---
 
 ### Help us reach out to serve
 
