@@ -45,7 +45,7 @@ breadcrumbs:
 collections:
   scc-operators:
     output: true
-  planning:
+  trust-services:
     output: true
   news-and-announcements:
     output: true
