@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MUIS to Set Up Trusts"
-date:   2018-02-01
+date:   2018-06-01
 permalink: "/resources/latest-news/muis-set-up-trusts"
 ---
 
