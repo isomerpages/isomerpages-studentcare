@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Trust Services
+title: What Is A SNTC Trust
 permalink: /planning/trust-services/what-is-a-trust/
 breadcrumb: Trust Services
 collection_name: trust-services
